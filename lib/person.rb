@@ -5,6 +5,7 @@ class Person
   def initialize(attributes)
     attributes.each do |k,v|
       
+    end
 
   end
 end
