@@ -9,6 +9,5 @@ class Person
       self.send("#{k}=",v)
       binding.pry
     end
-
   end
 end
